@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArbolGenealogico", "TestProject1\ArbolGenealogico.csproj", "{DE5F8EA0-271F-47E3-A939-6EF7E6E5BA59}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{33DFC4B0-4B29-4332-9D38-A0E6F3BE6088}"
+	ProjectSection(SolutionItems) = preProject
+		ArbolGenealogico.vsmdi = ArbolGenealogico.vsmdi
+		Local.testsettings = Local.testsettings
+		TraceAndTestImpact.testsettings = TraceAndTestImpact.testsettings
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = ArbolGenealogico.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE5F8EA0-271F-47E3-A939-6EF7E6E5BA59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE5F8EA0-271F-47E3-A939-6EF7E6E5BA59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE5F8EA0-271F-47E3-A939-6EF7E6E5BA59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE5F8EA0-271F-47E3-A939-6EF7E6E5BA59}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
